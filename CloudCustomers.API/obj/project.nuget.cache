@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rhwPbgh+O6EsjxnEj/tZPH5YuvQWIY0YtM3Soe9ko72LGOLaIidpBvUsYBUmR0rcgJ3Pbyr7W3O7q+Xirhqt8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LINDANI\\Desktop\\.NET API with TDD\\CloudCustomers.API\\CloudCustomers.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LINDANI\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\LINDANI\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\LINDANI\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\LINDANI\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\LINDANI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\LINDANI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
